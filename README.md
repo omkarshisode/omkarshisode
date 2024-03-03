@@ -1,13 +1,5 @@
 ### Hi there 👋
 
-<!--
-**omkarshisode/omkarshisode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-- 🔭 I’m currently working on Android
-- 🌱 I’m currently learning KMM
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ## I’m currently working on Android
+ ## I’m currently learning KMM
+ ## How to reach me: omkarshisode7@gmail.com
