@@ -1,7 +1,7 @@
 ### Hi there 👋
 
  #### I’m currently working on Android
- #### I’m currently learning KMM
+ #### I’m currently Learning iOS Development
  #### How to reach me: omkarshisode7@gmail.com
 
  ## Tools and Technologys:
