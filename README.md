@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- #### Android & iOS Developer
+ #### I'm Android & iOS Developer
  #### How to reach me: omkarshisode7@gmail.com
 
  ## Tools and Technologys:
