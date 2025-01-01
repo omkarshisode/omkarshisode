@@ -1,7 +1,6 @@
 ### Hi there 👋
 
- #### I’m currently working on Android
- #### I’m currently Learning iOS Development
+ #### Android & iOS Developer
  #### How to reach me: omkarshisode7@gmail.com
 
  ## Tools and Technologys:
